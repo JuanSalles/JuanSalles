@@ -1,10 +1,9 @@
 <h1 align="center">
   Hey Guys 👋
 </h1>
-
 <div align="center">
    <!-- <img height="350em" src="./.github/assets/cover_.png"/> -->
-   <img height="500em" src="https://raw.githubusercontent.com/JuanSalles/JuanSalles/main/Banner.png"/>
+   <img height="500em" src="https://raw.githubusercontent.com/JuanSalles/JuanSalles/9d45f5dd6a4d8ac5db1d976008a5f62406a47244/Banner.png/">
 </div>
 
 
