@@ -3,7 +3,7 @@
 </h1>
 <div align="center">
    <!-- <img height="350em" src="./.github/assets/cover_.png"/> -->
-   <img height="380em" src="https://raw.githubusercontent.com/JuanSalles/JuanSalles/main/Banner2.png">
+   <img width="500em" src="https://raw.githubusercontent.com/JuanSalles/JuanSalles/main/Banner2.png">
 </div>
 
 <h3 align="center">
