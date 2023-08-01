@@ -47,6 +47,7 @@ Espero adquirir um pouco de conhecimento todos os dias e futuramente poder passa
 ### ⚡ &nbsp;Database 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-E7ECEB?style=for-the-badge&logo=mongodb&logoColor=C86833)&nbsp;
 
+## 📊 &nbsp;Stats
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JuanSalles&show_icons=true&count_private=true&hide_border=true&title_color=48c1e2&icon_color=48c1e2&text_color=c9d1d9&bg_color=0d1117" alt="Juan Salles github stats" /> 
