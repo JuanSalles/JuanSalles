@@ -18,7 +18,7 @@
 
 Oi, eu sou o Juan.
 
-Tenho 27 anos, sou técnico em eletrônica e estou atualmente em processo de transição de carreira para em tornar um profissional de desenvolvimento full-stack, tenho focado atualmente no Front-end e estarei atualizando minhas skills por aqui.
+Tenho 27 anos, sou técnico em eletrônica e estou atualmente em processo de transição de carreira para me tornar um profissional de desenvolvimento full-stack, tenho focado atualmente no Front-end e estarei atualizando minhas skills por aqui.
 
 Estudo analise e desenvolvimento de sistemas e pretendo finalizar um curso de engenharia inacabado posteriomente.
 
