@@ -53,9 +53,6 @@ Espero adquirir um pouco de conhecimento todos os dias e futuramente poder passa
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JuanSalles&show_icons=true&count_private=true&hide_border=true&title_color=48c1e2&icon_color=48c1e2&text_color=c9d1d9&bg_color=0d1117" alt="Juan Salles github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanSalles&layout=compact&hide_border=true&title_color=48c1e2&text_color=48c1e2&bg_color=0d1117" />
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juansalles&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **JuanSalles/JuanSalles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
