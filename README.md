@@ -18,14 +18,17 @@
 
 Oi, eu sou o Juan.
 
-Tenho 27 anos, sou técnico em eletrônica e estou atualmente em processo de transição de carreira para me tornar um profissional de desenvolvimento full-stack, tenho focado atualmente no Front-end e estarei atualizando minhas skills por aqui.
+Tenho 28 anos, atuei 8 anos como técnico em eletrônica e hoje sou um desenvolvedor de Software Fullstack.
 
 Estudo analise e desenvolvimento de sistemas e pretendo finalizar um curso de engenharia inacabado posteriomente.
 
-Estou cada vez mais ansioso e encantado com o mundo da programação, ja tinha algum contato mas atualmente estou imerso e a sensação é incrivel. 
+Após conseguir uma vaga na aréa de TI tenho tido experiencias fantasticas, desde o projeto à implementação de soluções de sistemas, tendo contato direto com infraestrutura e codigo.
 
 Espero adquirir um pouco de conhecimento todos os dias e futuramente poder passar isso adiante.
 
+Por aqui vamos ter projetos em diversas linguagens e técnologias, estou a todo momento experimentando e aprendendo.
+
+Seja bem vindo!
 
 ***
 
